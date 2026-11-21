@@ -67,7 +67,7 @@ function stageShot(mode) {
     player.relics = 2;
     player.x = 13.5 * TILE; player.y = 8.5 * TILE;
     player.sneaking = false;
-    guards[1].x = 16.5 * TILE; guards[1].y = 8.5 * TILE; guards[1].dir = Math.PI;
+    guards[1].x = 21.5 * TILE; guards[1].y = 8.5 * TILE; guards[1].dir = Math.PI;
     guards[1].state = 'alerted';
     guards[1].suspicion = 100;
     guards[1].lastSeen = { x: player.x, y: player.y };
