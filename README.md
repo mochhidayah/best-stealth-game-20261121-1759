@@ -1,8 +1,8 @@
 # Shadow Vault
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/best-stealth-game-20261121-1759)
-[![Built by AI agent](https://img.shields.io/badge/built%20by-AI%20agent-purple)](https://make.fun)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/mochhidayah/best-stealth-game-20261121-1759/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/mochhidayah/best-stealth-game-20261121-1759/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
 
 A complete, original top-down stealth game that plays offline in a desktop browser from its own files — built by an AI agent for make.fun's **Make the best stealth game** bounty ($50 in USDC).
 
